@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(188, 255, 255);
+
+}
+
+
+.container{
+  text-align: center;
+ margin-top: 50px;
+ font-size: 2rem;
+}
+p{
+  font-size: 3rem;
+  font-weight: 800;
+
+}
+
+.btn button{
+  margin: 20px;
+  padding: 15px;
+  border-radius: 12px;
+  font-size: 1.5rem;
+  background-color: blue;
+  color: white;
+}
+
+.btn button:hover{
+background-color: darkgoldenrod;
+border: 2px dotted white;
+color: black;
+}
